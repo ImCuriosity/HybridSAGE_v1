@@ -1,5 +1,6 @@
 # HybridSAGE
-![샘플링 기법 관련 논문](attachment:93452e62-bb45-4eae-a5a7-896a9972c80f:image.png)
+<img width="625" height="421" alt="image" src="https://github.com/user-attachments/assets/66e6a634-a957-4bc9-8203-31a8ad87ed10" />
+
 
 샘플링 기법 관련 논문
 ## Efficient Sampling Techniques for Embedding Large Graphs
